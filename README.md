@@ -1,2 +1,2 @@
 # POJ
-Few java exercices. To get to kniw the object oriented programming.
+Few java exercices to get to know the object oriented programming.
